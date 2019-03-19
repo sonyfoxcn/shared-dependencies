@@ -13,13 +13,13 @@
         <maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
     </properties>
 
-    <groupId>com.cdp.ecosaas</groupId>
+    <groupId>com.github.sonyfoxcn</groupId>
     <artifactId>shared-dependencies</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>EcoSaas dependencies</name>
+    <name>EcoSaaS dependencies</name>
     <description>used for dependencies management</description>
-    <url>http://www.ecosaas.com/</url>
+    <url>https://www.ecosaas.com/</url>
     <licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>
@@ -30,6 +30,7 @@
         <connection>scm:git:git@github.com:sonyfoxcn/shared-dependencies.git</connection>
         <developerConnection>scm:git:git@github.com:sonyfoxcn/shared-dependencies.git</developerConnection>
         <url>git@github.com:sonyfoxcn/shared-dependencies.git</url>
+        <tag>master</tag>
     </scm>
     <developers>
         <developer>
